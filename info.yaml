@@ -1,7 +1,7 @@
 --- 
 # TinyTapeout project information
 project:
-  wokwi_id:    368241820443546625        # If using wokwi, set this to your project's ID
+  wokwi_id:    374962052813090817        # If using wokwi, set this to your project's ID
 
 # If using an HDL, set wokwi_id as 0 and uncomment and list your source files here. 
 # Source files must be in ./src and you must list each source file separately
@@ -22,10 +22,10 @@ yaml_version: 4
 #
 # Here is a great example: https://github.com/davidsiaw/tt02-davidsiaw-stackcalc/blob/38c5647f83aad2aec675d566aa3d67b98f0aac81/info.yaml
 documentation: 
-  author:       "James Stine Saint Atila"      # Your name
-  title:        "Guardian of the Cave of Caerbannog"      # Project title
+  author:       "Jimmy Hartford"      # Your name
+  title:        "3-bit display"      # Project title
   language:     "Wokwi" # other examples include Verilog, Amaranth, VHDL, etc
-  description:  "Carry-Save Array Multiplier (2-bits)"      # Short description of what your project does
+  description:  "displays 4 different patterns with 8 panels"      # Short description of what your project does
 
 # Longer description of how the project works. You can use standard markdown format.
   how_it_works: |
